@@ -8,6 +8,10 @@
 
 .movie-page svg {
   font-size: 1.5rem;
+  color: #5478F7;
+}
+
+#star svg{
   color: #f7d354;
 }
 
