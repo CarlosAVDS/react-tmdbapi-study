@@ -7,8 +7,9 @@ Aplicativo em React para explorar filmes e séries usando a API do [TMDb (The Mo
   <img width="1257" height="906" alt="Image" src="https://github.com/user-attachments/assets/0dced261-dc1a-4be9-94f2-43ba88f34d34" />
 </div>
 
-🔗 Link do Projeto 
-<a href="https://molib-tmdb.vercel.app/" target="_blank">[Ver site ao vivo]</a>
+🔗 Link do Projeto <br>
+
+<a href="https://molib-tmdb.vercel.app/" target="_blank" > [Ver site ao vivo] </a>
 
 
 ## 🚀 Instalação & Execução
