@@ -2,6 +2,10 @@
 
 Aplicativo em React para explorar filmes e séries usando a API do [TMDb (The Movie Database)]. Com objetivo de aprender React Hooks, fetch, roteamento, e consumo de API pública. Ministrado pelo Matheus Battisti(https://github.com/matheusbattisti) do canal Hora de Codar
 
+📸
+<div align="center">
+  <img width="1257" height="906" alt="Image" src="https://github.com/user-attachments/assets/0dced261-dc1a-4be9-94f2-43ba88f34d34" />
+</div>
 
 
 ## 🚀 Instalação & Execução
